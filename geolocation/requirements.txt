@@ -1,0 +1,8 @@
+
+einops
+s2cell
+numpy
+pandas
+geopy
+tensorflow
+tensorflow_hub
