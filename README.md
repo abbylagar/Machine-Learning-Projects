@@ -1,4 +1,4 @@
-# Python codes 
+# Python Projects
 - [SweetBoost](https://github.com/abbylagar/sweetboost/tree/mynewbranch)- predicting sweet/nonsweet and bitter/nonbitter taste of molecules
 - [Keyword Spotting](https://github.com/abbylagar/KWS)
 - [Object Detection](https://github.com/abbylagar/objectdetection)
