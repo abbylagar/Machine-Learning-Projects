@@ -6,6 +6,7 @@
 - [PhotoGeolocation](geolocation) - Photogelocation deployed Hugging Face 
 - [Multilingual Keyword Extractor](multilingual_keyword_extractor) - Multilingual keyword extractor deployed in  Hugging Face
 - [Video Record](cv2_video_record)
+- [Youtube Details Extractor](youtube_channel.ipynb)
 - [Folium](FoliumMap_GIS.ipynb)
 - [h5 to TFlite](h5-to-tflite.ipynb)
 - [image to array](convert-image-to-array.ipynb)
